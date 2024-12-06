@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Gravitational-wave Astrophysicist | Universirt of Florida, Gainesville, FL, USA
+subtitle: Gravitational-wave Astrophysicist | University of Florida, Gainesville, FL, USA
 
 profile:
   align: right
