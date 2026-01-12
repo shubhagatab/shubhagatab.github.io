@@ -15,11 +15,11 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false # includes social icons at the bottom of the page
 ---
 
-Hi! I am a Ph.D. candidate at the University of Florida working with Prof. Imre Bartos. I am interested in analyzing gravitational-wave data to understand origins of binary black hole systems. I specialize in the analysis of gravitational waves from binary black holes with eccentric orbits. Please feel free to reach out via email if you are interested in my research!
+Hi! I am a Post Doctoral Fellow at Indian Institute of Technology (IIT) Bombay working on analyzing gravitational-wave data to understand origins of binary black hole systems. I completed my Ph.D. from the University of Florida in 2025 under the supervision of Prof. Imre Bartos. I specialize in the analysis of gravitational waves from binary black holes with eccentric orbits. Please feel free to reach out via email if you are interested in my research!
 
 Before starting my Ph.D. in 2019, I was a BS-MS student at Indian Institute of Science Education and Research (IISER) Kolkata, and my research involved developing algorithms to optimize template-based searches that are used to detect gravitational waves.
 
-Outside of research, I like to play the guitar, cook, watch movies and discover new coffee spots with my friends.
+Outside of research, I like to play the guitar, cook, watch sports, and discover new coffee spots with my friends.
 
 <!--- // Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 
