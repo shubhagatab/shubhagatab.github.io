@@ -8,17 +8,26 @@
     - name: Languages
       value: English, Hindi, Telugu, Bengali, Kannada
 
+- title: Work
+  type: time_table
+  contents:
+    - title: Postdoctoral Fellow
+      institution: Indian Institute of Technology (IIT), Bombay, India
+      year: 2019 - 2025
+      description:
+        - Deciphering the origins of binary black holes by identifying orbital eccentricity signatures in gravitational-wave signals 
+
 - title: Education
   type: time_table
   contents:
     - title: PhD in Physics
-      institution: University of Florida
-      year: 2019 - Present
+      institution: University of Florida, Gainesville, USA
+      year: 2019 - 2025
       description:
         - Search for Eccentric Binary Black Holes with Gravitational Waves.
 
     - title: BS-MS in Physics
-      institution: Indian Institute of Science Education and Research (IISER) Kolkata
+      institution: Indian Institute of Science Education and Research (IISER) Kolkata, India
       year: 2014 - 2019
       description:
         - Optimizing Matched-Filtering Algorithms using Particle Swarm optimization
